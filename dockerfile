@@ -1,5 +1,5 @@
 FROM ubuntu
-LABEL Zhafran Rama Azmi
+MAINTAINER Zhafran Rama Azmi
 
 RUN apt-get -y update
 RUN apt-get -y upgrade
